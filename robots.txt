@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://irizuabo.github.io/sitemap_index.irizuabo
